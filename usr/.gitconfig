@@ -1,0 +1,5 @@
+[user]
+	email = xiaoshenwei96@163.com
+	name = Xiao Shenwei
+[pull]
+        rebase = true
